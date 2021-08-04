@@ -1,0 +1,67 @@
+body{
+background-color:lightcyan;
+}
+.column {
+  float:left;
+  
+}
+
+.left{
+  width:50%;
+}
+
+.right{
+  width: 50%;
+}
+
+
+
+/* add a background color to the top navagigation*/
+.navbar{
+background-color:black;
+overflow: hidden;
+}
+
+/* styles links inside nav bar*/
+.navbar a{
+float: left;
+color:white;
+text-align: center;
+padding: 14px 16px;
+text-decoration:none; 
+font-size: 17px;
+}
+
+
+ /* chamge color of links on hover */
+.navbar a:hover{
+ background-color:gray;
+ color:black;
+}
+
+/* add color to active
+content: "";
+display:table;
+clear: both; 
+}
+/*current linl*/
+.navbar a.active{
+
+background-color:purple;
+color: white;
+
+.column {
+  float:left;
+  
+}
+
+.left{
+  width:50%;
+}
+
+.right{
+  width: 50%;
+}
+
+
+
